@@ -11,8 +11,6 @@ import BUS.QuanLySanPhamBUS;
 import BUS.QuanLyTacGiaBUS;
 import BUS.XuatExcel;
 import DTO.SanPham;
-import GUI.HienThiForm.PriceFormatter;
-import GUI.ThemSuaForm.ThemSuaSanPhamForm;
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.Image;

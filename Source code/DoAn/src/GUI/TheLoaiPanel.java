@@ -8,7 +8,6 @@ import BUS.DocExcel;
 import BUS.QuanLyLoaiSanPhamBUS;
 import BUS.XuatExcel;
 import DTO.LoaiSanPham;
-import GUI.ThemSuaForm.ThemSuaLoaiSanPhamForm;
 import java.awt.Font;
 import java.util.ArrayList;
 import javax.swing.BorderFactory;

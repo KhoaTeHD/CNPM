@@ -11,8 +11,6 @@ import BUS.QuanLyNhanVienBUS;
 import BUS.WritePDF;
 import BUS.XuatExcel;
 import DTO.HoaDon;
-import GUI.HienThiForm.PriceFormatter;
-import GUI.ThemSuaForm.ThemSuaHoaDonForm;
 import com.github.lgooddatepicker.components.DatePicker;
 import com.github.lgooddatepicker.components.DatePickerSettings;
 import java.awt.Color;

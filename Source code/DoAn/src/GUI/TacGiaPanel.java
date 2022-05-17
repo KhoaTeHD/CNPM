@@ -8,8 +8,6 @@ import BUS.DocExcel;
 import BUS.QuanLyTacGiaBUS;
 import BUS.XuatExcel;
 import DTO.TacGia;
-import GUI.ThemSuaForm.ThemSuaLoaiSanPhamForm;
-import GUI.ThemSuaForm.ThemSuaTacGiaForm;
 import java.awt.Font;
 import java.awt.event.ActionEvent;
 import java.util.ArrayList;

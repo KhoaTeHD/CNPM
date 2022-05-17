@@ -6,7 +6,7 @@
 package BUS;
 // add itextpdf.jar
 import DTO.*;
-import GUI.HienThiForm.PriceFormatter;
+import GUI.PriceFormatter;
 import com.itextpdf.text.Chunk;
 import com.itextpdf.text.Document;
 import com.itextpdf.text.DocumentException;

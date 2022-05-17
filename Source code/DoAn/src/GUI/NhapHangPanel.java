@@ -15,8 +15,6 @@ import DTO.NhaCungCap;
 import DTO.NhanVien;
 import DTO.PhieuNhap;
 import DTO.SanPham;
-import GUI.ChonFrame.ChonNhaCungCap;
-import GUI.HienThiForm.PriceFormatter;
 import java.awt.Image;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;

@@ -15,8 +15,6 @@ import DTO.HoaDon;
 import DTO.KhachHang;
 import DTO.NhanVien;
 import DTO.SanPham;
-import GUI.ChonFrame.ChonKhachHang;
-import GUI.HienThiForm.PriceFormatter;
 import java.awt.Font;
 import java.awt.Image;
 import java.awt.event.MouseAdapter;
